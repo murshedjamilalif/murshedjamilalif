@@ -1,4 +1,4 @@
-### Hi there 👋, 👋 Hi! I'm Murshed Jamil Alif!
+### 👋👋 Hi! I'm Murshed Jamil Alif!
 #### DevOps Enthusiast
 ![DevOps Enthusiast](https://thumbs.dreamstime.com/b/devops-agile-development-optimisation-concept-virtual-screen-151305105.jpg)
 
