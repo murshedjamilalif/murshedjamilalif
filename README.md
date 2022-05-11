@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murshedjamilalif&label=Profile%20views&color=0e75b6&style=flat" alt="murshedjamilalif" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murshedjamilalif" alt="murshedjamilalif" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/murshed_jamil" target="blank"><img src="https://img.shields.io/twitter/follow/murshed_jamil?logo=twitter&style=for-the-badge" alt="murshed_jamil" /></a> </p>
 
 - 🌱 I’m currently learning **Android Devlopment**
