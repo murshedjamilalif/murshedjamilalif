@@ -22,8 +22,6 @@ Skills: C++/Python/OOP
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=murshedjamilalif&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=murshedjamilalif)  
-
 ![GitHub metrics](https://metrics.lecoq.io/murshedjamilalif)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=murshedjamilalif)  
