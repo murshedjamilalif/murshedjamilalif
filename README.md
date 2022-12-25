@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Python/OOP**
+- 💬 Ask me about **Python/OOP/Data Structure**
 
 - 📫 How to reach me **https://www.linkedin.com/in/murshed-jamil-alif/**
 
