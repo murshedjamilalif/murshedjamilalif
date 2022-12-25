@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/murshed_jamil" target="blank"><img src="https://img.shields.io/twitter/follow/murshed_jamil?logo=twitter&style=for-the-badge" alt="murshed_jamil" /></a> </p>
 
-- 🌱 I’m currently learning **Android Devlopment**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
