@@ -1,12 +1,12 @@
 ### 👋👋 Hi! I'm Murshed Jamil Alif!
 #### DevOps Enthusiast
-![DevOps Enthusiast](https://thumbs.dreamstime.com/b/devops-agile-development-optimisation-concept-virtual-screen-151305105.jpg)
+![ML Enthusiast]([https://thumbs.dreamstime.com/b/devops-agile-development-optimisation-concept-virtual-screen-151305105.jpg](https://cdn0.scrvt.com/fokus/b10b9460c59ce9fe/1a1bf772ad3a/v/71c632bfce7e/AI_KI_970x485.jpg?nowebp=1))
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murshedjamilalif&label=Profile%20views&color=0e75b6&style=flat" alt="murshedjamilalif" /> </p>
 
 <p align="left"> <a href="https://twitter.com/murshed_jamil" target="blank"><img src="https://img.shields.io/twitter/follow/murshed_jamil?logo=twitter&style=for-the-badge" alt="murshed_jamil" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
