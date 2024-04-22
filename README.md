@@ -1,6 +1,25 @@
+
 ### 👋👋 Hi! I'm Murshed Jamil Alif!
+
 #### Tech Enthusiast
 ![DevOps Enthusiast](https://cdn0.scrvt.com/fokus/b10b9460c59ce9fe/1a1bf772ad3a/v/71c632bfce7e/AI_KI_970x485.jpg?nowebp=1)
+<div style="display: flex; justify-content: space-around;">
+  <a href="https://www.linkedin.com/in/murshed-jamil-alif/" rel="nofollow">
+        <img src="https://img.shields.io/badge/murshedjamilalif-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murshed-jamil-alif/" alt="Linkedin Badge">
+  </a>
+
+  <a href="https://twitter.com/@murshed_jamil" rel="nofollow">
+        <img src="https://img.shields.io/badge/-@murshed_jamil-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@murshed_jamil" alt="Twitter Badge">
+  </a>
+
+  <a href="https://medium.com/@amirulislamalmamun" rel="nofollow">
+        <img src="https://img.shields.io/badge/-@murshedjamilalif-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@murshedjamilalif/" alt="Medium Badge">
+  </a>
+
+  <a href="mailto:murshedjamilalif@gmail.com">
+        <img src="https://img.shields.io/badge/-murshedjamilalif@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murshedjamilalif@gmail.com" alt="Gmail Badge">
+  </a>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murshedjamilalif&label=Profile%20views&color=0e75b6&style=flat" alt="murshedjamilalif" /> </p>
 
