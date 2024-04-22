@@ -1,5 +1,5 @@
 ### 👋👋 Hi! I'm Murshed Jamil Alif!
-#### ML Enthusiast
+#### Tech Enthusiast
 ![DevOps Enthusiast](https://cdn0.scrvt.com/fokus/b10b9460c59ce9fe/1a1bf772ad3a/v/71c632bfce7e/AI_KI_970x485.jpg?nowebp=1)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murshedjamilalif&label=Profile%20views&color=0e75b6&style=flat" alt="murshedjamilalif" /> </p>
