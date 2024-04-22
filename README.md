@@ -5,16 +5,30 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murshedjamilalif&label=Profile%20views&color=0e75b6&style=flat" alt="murshedjamilalif" /> </p>
 
 <p align="left"> <a href="https://twitter.com/murshed_jamil" target="blank"><img src="https://img.shields.io/twitter/follow/murshed_jamil?logo=twitter&style=for-the-badge" alt="murshed_jamil" /></a> </p>
+<h2><i class="fas fa-users"></i> 👯 Summary</h2>
+  <ul>
+    <li>⚡Passionate in programming</li>
+    <li>🏆 Excellent reputation for problem solving ability</li>
+    <li>🧙‍♂️ Experienced and skilled enough in Algorithms and Data Structure</li>
+<!--     <li>Participated 18+ IUPC (Inter University Programming Contest) on behalf of BRAC University</li> -->
+    <li>💻 Solved 150+ online programming problems</li>
+<!--     <li>Authored 12+ programming problems</li> -->
+<!--     <li>Judge and Problem setter at 6+ programming contests</li> -->
+<!--     <li>Experience of working in a largest e-commerce ecosystem and banking software</li> -->
+    <li>🛡️ Team player and love to take new challenges</li>
+    <li>👯 I’m looking to collaborate on <b>Open Source Projects</b></li>
+    <li>💬 Ask me about <b>Python/OOP-Data Structure-Algorithm</b> </li>
+  </ul>
 
-- 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Python/OOP-Data Structure-Algorithm**
+<h2><i class="fas fa-users"></i> 📨 Connect with me:</h2>
 
-- 📫 How to reach me **https://www.linkedin.com/in/murshed-jamil-alif/**
 
-<h3 align="left">Connect with me:</h3>
+
+
+
+
 <p align="left">
 <a href="https://twitter.com/murshed_jamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="murshed_jamil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/murshed-jamil-alif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murshed-jamil-alif" height="30" width="40" /></a>
@@ -28,9 +42,79 @@
 <a href="https://auth.geeksforgeeks.org/user/murshedjamilalif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="murshedjamilalif" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!--<h3 align="left">Languages and Tools:</h3>-->
+<h2><i class="fas fa-users"></i> ⚡ Technologies</h2>
+  <p>Talk to me about:</p>
+  <ul>
+    <li>Backend development using Django, Node.js, Express.js</li>
+    <li>Front-end development using React </li>
+    <li>Language expertise in Python, C/C++, JavaScript, Java</li>
+    <li>Masking for Relational Database Management Systems (MySQL, MongoDB)</li>
+    <li>Solving Data structure and algorithm questions in C/C++, Python.</li>
+    <li>Regular user of Linux Operating System.</li>
+<!--     <li>Experience of using Docker, Kubernetes.</li>
+    <li>Desktop application development using Java.</li> -->
+<!--     <li>Mobile application development using Java, Kotlin, Flutter.</li> -->
+  </ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murshedjamilalif&show_icons=true&locale=en&layout=compact" alt="murshedjamilalif" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murshedjamilalif&show_icons=true&locale=en" alt="murshedjamilalif" /></p>
+<p align="left">
+  <a href="https://www.w3schools.com/django/index.php" target="_blank" rel="noreferrer">
+      <img src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor " alt="cplusplus" width="60" height="40"/>
+   </a>
+  
+   <a href="https://learndjango.com/tutorials/official-django-rest-framework-tutorial-beginners" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" alt="cplusplus" width="40" height="40"/>
+   </a>      
+  
+   
+  
+   <a href="https://www.w3schools.com/react/default.asp" target="_blank" rel="noreferrer">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="cplusplus" width="40" height="40"/> 
+           
+  </a>
+
+   <a href="https://www.w3schools.com/nodejs/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="cplusplus" width="40" height="40"/> 
+           
+  </a>
+
+   <a href="https://www.w3schools.com/java/default.asp" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="cplusplus" width="40" height="40"/> 
+           
+  </a>  
+      
+  <a href="https://www.tutorialspoint.com/expressjs/index.htm" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="cplusplus" width="40" height="40"/> 
+           
+  </a>        
+            
+          
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  
+  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  
+  
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  
+
+</p>
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murshedjamilalif&show_icons=true&locale=en&layout=compact" alt="murshedjamilalif" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=murshedjamilalif&show_icons=true&locale=en" alt="murshedjamilalif" width="400" height="167" />
+</p>
