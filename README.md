@@ -1,5 +1,5 @@
 
-### 👋👋 Hi! I'm Murshed Jamil Alif 😃 from Dhaka, Bangladesh. I am a passionate problem solver and backend developer. I love to explore and learn about new things.
+### Hi! I'm Murshed Jamil Alif 😃 from Dhaka, Bangladesh. I am a passionate problem solver and backend developer. I love to explore and learn about new things.
 
 #### Tech Enthusiast
 ![DevOps Enthusiast](https://cdn0.scrvt.com/fokus/b10b9460c59ce9fe/1a1bf772ad3a/v/71c632bfce7e/AI_KI_970x485.jpg?nowebp=1)
