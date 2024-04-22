@@ -92,6 +92,20 @@
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="cplusplus" width="40" height="40"/> 
            
   </a>
+   <a href="https://www.w3schools.com/mongodb/index.php" target="_blank" rel="noreferrer">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="cplusplus" width="40" height="40"/> 
+           
+  </a>
+  
+            
+          
+
+   <a href="https://www.w3schools.com/mysql/default.asp" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="cplusplus" width="40" height="40"/> 
+           
+  </a>
+            
+          
 
    <a href="https://www.w3schools.com/nodejs/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="cplusplus" width="40" height="40"/> 
