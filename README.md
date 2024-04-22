@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/badge/-@murshed_jamil-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@murshed_jamil" alt="Twitter Badge">
   </a>
 
-  <a href="https://medium.com/@amirulislamalmamun" rel="nofollow">
+  <a href="https://medium.com/@murshedjamilalif" rel="nofollow">
         <img src="https://img.shields.io/badge/-@murshedjamilalif-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@murshedjamilalif/" alt="Medium Badge">
   </a>
 
