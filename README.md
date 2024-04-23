@@ -33,7 +33,7 @@
   </a>
   
   <a>
-  <img src="https://img.shields.io/github/followers/Follow?style=flat-square&logo=Twitter&link=https%3A%2F%2Ftwitter.com%2Fmurshed_jamil" /> 
+  <img src="https://img.shields.io/twitter/follow/murshed_jamil?style=for-the-badge&logo=Twitter&label=Murshed%20Jamil%20Alif"height="20" /> 
   </a>
 </p>
 
