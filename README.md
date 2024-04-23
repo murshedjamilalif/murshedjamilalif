@@ -31,6 +31,10 @@
   <a href="https://github.com/murshedjamilalif">
       <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/murshedjamilalif?color=236ad3&style=for-the-badge&logo=github&label=Follow" height="20"/>
   </a>
+  
+  <a>
+  <img src="https://img.shields.io/github/followers/Follow?style=flat-square&logo=Twitter&link=https%3A%2F%2Ftwitter.com%2Fmurshed_jamil" /> 
+  </a>
 </p>
 
 
@@ -38,9 +42,8 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=murshedjamilalif&label=Profile%20views&color=0e75b6&style=flat" alt="murshedjamilalif" /> </p>
 
-<p align="center"> <a href="https://twitter.com/murshed_jamil" target="blank"><img src="https://img.shields.io/twitter/follow/murshed_jamil?logo=twitter&style=for-the-badge" alt="murshed_jamil" /></a> </p>
+
 <h2><i class="fas fa-users"></i> 👯 Summary</h2>
   <ul>
     <li>⚡Passionate in programming</li>
