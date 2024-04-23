@@ -93,7 +93,7 @@
 <!--     <li>Mobile application development using Java, Kotlin, Flutter.</li> -->
   </ul>
 
-
+<!--
 <p align="left">
   <a href="https://www.w3schools.com/django/index.php" target="_blank" rel="noreferrer">
       <img src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor " alt="cplusplus" width="60" height="40"/>
@@ -170,6 +170,8 @@
   
 
 </p>
+-->
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,replit,github,css,html,js,mongodb,express,react,nodejs,python,django,mysql,"> </a> </p>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murshedjamilalif&show_icons=true&locale=en&layout=compact" alt="murshedjamilalif" />
