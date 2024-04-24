@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/twitter/follow/murshed_jamil?style=for-the-badge&logo=Twitter&label=Murshed%20Jamil%20Alif"height="20" /> 
   </a>
 </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=murshedjamilalif&label=Profile%20views&color=0e75b6&style=flat" alt="murshedjamilalif" /> </p>
 
 
 
