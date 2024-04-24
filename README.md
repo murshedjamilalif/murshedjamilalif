@@ -82,7 +82,7 @@
 </p>
 
 <!--<h3 align="left">Languages and Tools:</h3>-->
-<h2><i class="fas fa-users"></i> ⚡ Technologies</h2>
+<h2><i class="fas fa-users"></i> ⚡ Language & Tools</h2>
   <p>Talk to me about:</p>
   <ul>
     <li>Backend development using Django, Node.js, Express.js</li>
