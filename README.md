@@ -174,7 +174,7 @@
 
 </p>
 -->
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,replit,github,css,html,js,mongodb,express,react,nodejs,python,django,mysql,"> </a> </p>
+<p align="left"> <a href="https://github.com/murshedjamilalif"><img src="https://skillicons.dev/icons?i=vscode,replit,github,css,html,js,mongodb,express,react,nodejs,python,django,mysql,"> </a> </p>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murshedjamilalif&show_icons=true&locale=en&layout=compact" alt="murshedjamilalif" />
