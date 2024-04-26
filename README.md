@@ -50,7 +50,7 @@
     <li>🏆 Excellent reputation for problem solving ability</li>
     <li>🧙‍♂️ Experienced and skilled enough in Algorithms and Data Structure</li>
 <!--     <li>Participated 18+ IUPC (Inter University Programming Contest) on behalf of BRAC University</li> -->
-    <li>💻 Solved 150+ online programming problems</li>
+    <li>💻 Solved 250+ online programming problems</li>
 <!--     <li>Authored 12+ programming problems</li> -->
 <!--     <li>Judge and Problem setter at 6+ programming contests</li> -->
 <!--     <li>Experience of working in a largest e-commerce ecosystem and banking software</li> -->
